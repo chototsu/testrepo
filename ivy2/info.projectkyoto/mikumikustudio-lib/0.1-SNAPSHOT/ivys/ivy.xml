@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+    <info organisation="info.projectkyoto" module="mikumikustudio-lib" revision="0.1-SNAPSHOT" status="integration" publication="20130903162327">
+    	<description>
+            MikuMikuStudio library.
+    	</description>
+    </info>
+
+    <publications>
+        <!--<artifact name="mikumikustudio-lib" type="pom" ext="pom"/>-->
+      <artifact name="jMonkeyEngine3"/>
+      <artifact name="eventbus"/>
+      <artifact name="j-ogg-oggd"/>
+      <artifact name="j-ogg-vorbisd"/>
+      <artifact name="jME3-bullet-natives"/>
+      <artifact name="jME3-lwjgl-natives"/>
+      <artifact name="jME3-bullet"/>
+        <artifact name="jinput"/>
+        <artifact name="lwjgl"/>
+
+    </publications>
+</ivy-module>
