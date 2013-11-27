@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0">
-    <info organisation="info.projectkyoto" module="mikumikustudio-lib-android" revision="0.2-SNAPSHOT" status="integration" publication="20130911143551">
+    <info organisation="info.projectkyoto" module="mikumikustudio-lib-android" revision="0.2-SNAPSHOT" status="integration" publication="20131123082009">
     	<description>
             MikuMikuStudio library for Android.
     	</description>
